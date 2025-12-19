@@ -9,7 +9,7 @@ import { CommonModule } from '@angular/common';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  // [SAM1-38] Updated H1 title to 'iathon testing _DEMO'
-  title = 'iathon testing _DEMO';
+  // [SAM1-39] Change H1 title to "iathon DEMO_TEST"
+  title = 'iathon DEMO_TEST';
   currentYear = new Date().getFullYear();
 }
