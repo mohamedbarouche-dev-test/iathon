@@ -9,6 +9,6 @@ import { CommonModule } from '@angular/common';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Iathon Angular App';
+  title = 'iathon app';
   currentYear = new Date().getFullYear();
 }
